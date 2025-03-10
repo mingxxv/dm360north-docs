@@ -1,0 +1,6 @@
+[book]
+authors = ["Gordon C."]
+language = "en"
+multilingual = false
+src = "src"
+title = "DM360 North Documentation"
